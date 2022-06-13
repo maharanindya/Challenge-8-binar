@@ -7,3 +7,5 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+Heroku: https://chbinar-8.herokuapp.com/
